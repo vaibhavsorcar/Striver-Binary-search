@@ -1,1 +1,1 @@
-This section is for implementation of Binary Search algorithm.
+ᴛʜɪꜱ ꜱᴇᴄᴛɪᴏɴ ɪꜱ ꜰᴏʀ ɪᴍᴘʟᴇᴍᴇɴᴛᴀᴛɪᴏɴ ᴏꜰ ʙɪɴᴀʀʏ ꜱᴇᴀʀᴄʜ ᴀʟɢᴏʀɪᴛʜᴍ.
